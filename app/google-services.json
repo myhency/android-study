@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "93177434091",
+    "firebase_url": "https://howlstagram-f16-e449e.firebaseio.com",
+    "project_id": "howlstagram-f16-e449e",
+    "storage_bucket": "howlstagram-f16-e449e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93177434091:android:a4d2148657dd08ad0993ae",
+        "android_client_info": {
+          "package_name": "com.howl.howlstagram_f16"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93177434091-6rju61nav0rukts9cg7sp3p7o9jjomh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAabDAH4wKjmjxfKURiVFVrFG5Ilsg-vlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93177434091-6rju61nav0rukts9cg7sp3p7o9jjomh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
