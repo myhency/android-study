@@ -50,7 +50,4 @@
         android:layout_toRightOf="@+id/addphoto_image"
         android:layout_below="@+id/editText"
         android:theme="@style/ButtonStyle"/>
-
-
-
 </RelativeLayout>
