@@ -61,6 +61,11 @@ class LoginActivity : AppCompatActivity() {
     }
     ///oLmflFmtOuYHole90zMqvL845g=
 
+    override fun onStart() {
+        super.onStart()
+        moveMainPage(auth?.currentUser)
+    }
+
     fun printHashKey() {
         try {
             val info = packageManager.getPackageInfo(packageName, PackageManager.GET_SIGNATURES)
